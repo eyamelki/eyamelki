@@ -25,7 +25,7 @@
 
 - **Sécurité & Paiements :** Implémentation d'une **API REST** sécurisée par **JWT (JSON Web Token)** et intégration avancée de **Stripe API** pour le traitement des paiements.
 
-**Développement Web & Backend**
+**Développement Web**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-1A1A2E?style=flat-square&logo=react&logoColor=61DAFB)
@@ -75,7 +75,7 @@ Full-stack ML web application predicting telecom customer churn from 7,043 recor
 ---
 
 ### 🤖 AI Code Reviewer — Intelligent Code Analysis Platform
-> Next.js · FastAPI · OpenAI API · Monaco Editor · PostgreSQL · Microservices
+> Next.js · FastAPI · OpenAI API · Gemini API · PostgreSQL 
 
 Web platform enabling developers to import code or GitHub repositories and receive AI-powered reviews: quality analysis, bug detection, clean code suggestions, automatic documentation, unit test generation (Jest / PyTest), and an intelligent assistant for code explanation.
 
@@ -99,6 +99,4 @@ Web platform enabling developers to import code or GitHub repositories and recei
 
 [![Email](https://img.shields.io/badge/Email-eya.melki.52@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eya.melki.52@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eya--melki-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eya-melki)
-[![GitHub](https://img.shields.io/badge/GitHub-eyamelki-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eyamelki/eyamelki)
 
-📍 Béja, Tunisia 🇹🇳
