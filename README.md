@@ -1,12 +1,15 @@
 # Hi 👋! My name is Eya Melki and I'm a Fullstack & AI Developer 
-
+ 
 > Software Engineering Graduate | Full Stack & AI Developer | Building intelligent platforms with modern web technologies and machine learning
-
+ 
 🟠 Currently finishing my B.Sc. in Software Engineering at **Higher Institute of Computer Science - ISI Kef**
+ 
 🔴 Passionate about AI, Machine Learning, and Full-Stack Web Development
+ 
 🟢 I love building intelligent systems and solving real-world problems
+ 
 🔵 In my free time: exploring new tech and learning new frameworks
-
+ 
 ---
 
 ## 🚀 Featured Projects
